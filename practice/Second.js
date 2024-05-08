@@ -1,1 +1,1 @@
-let myFunction = (a, b) => a * b;kjnjnoj
+let myFunction = (a, b) => a * b;
