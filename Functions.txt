@@ -1,0 +1,37 @@
+1) function printme() {
+   }           ||
+               ||
+          Function name               
+
+==> above code declaring and definition     the function.
+
+
+2) console
+==> Console having varities of method.One of the method is log, through which you can log something in the console so that you know them you can actually read them or its more for the debugging purpose that you can use.
+
+
+
+3) Without putting paranthesis
+==> For example:- Printme ->(Function     name without paranthesis)
+The function is going to print its complete body itself.It is going to give you a string version of the entire function's definition otr declaration that you have done just now.
+
+To execute you just have to put paranthesis after function name
+for eg:- Printme();
+
+
+
+*)whatever you put inside this parenthesis is called parameters.
+==> Function Printme(param){
+      console.log(param);
+    }     
+
+
+*) The actual value that you're passing to this function is called argument.
+
+*) So PARAMETER is something that you pass to a function while declaraing or defining the function. But when you call or invoke the function,the actual value you pass to it, it's called ARGUMENT.
+
+
+
+*) We have defined the function, but there is one more way we can actually declare or define the function.That's called using the function expressings.
+
+
